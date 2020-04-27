@@ -1,7 +1,10 @@
 # python-test
 python test
+
 ##this is second heading
+
 *this is bold
+
 available regions        | Azure                                |Aws regions and zones                          |Google compute and region
  _ _  _ _  _ _ _ __ _ _ _ __  __ _ _ _ _  __ _ _ _ _ _ _ _ _ _ _ _ _ _  __ _ _  _ _ __ _ _ _ _ _ _ _ __  _ _ _ _ _ __  _ _ __  _ _ _ _ __  __ _ _  __  __ _  _ __ _  __ 
                          |					|						|
