@@ -1,14 +1,3 @@
-#all below are devops tools used
-##the table is as follow
-**development tools**
-**development tools
-
-
-
-
-
-
-
 
 | name       | description         | used mostly  |  applications  |
 | ------------- |:-------------:| -----:| --------:|
