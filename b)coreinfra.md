@@ -1,6 +1,6 @@
 # These sheet includes coreinfrastuture program
 ## Following table mention all needfull
-![cyber security](https://www.gb-advisors.com/wp-content/uploads/2018/10/DevOps-y-Ciberseguridad-400x270.png)  (https://www.edureka.co/blog/wp-content/uploads/2018/07/sending-message-over-network-what-is-cryptography-edureka-1.png)
+![cyber security](https://www.gb-advisors.com/wp-content/uploads/2018/10/DevOps-y-Ciberseguridad-400x270.png)  ![](https://www.edureka.co/blog/wp-content/uploads/2018/07/sending-message-over-network-what-is-cryptography-edureka-1.png)
 
 
 
