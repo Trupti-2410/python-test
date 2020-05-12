@@ -4,7 +4,7 @@
 **databases**
 
 **databases
-[image of classificaion of databases](https://www.veritis.com/solutions/devops/made-easier-with-devops-tools/)
+![image of classificaion of databases](https://www.veritis.com/wp-content/uploads/2018/03/DevOps-Tools-768x465.jpg)
 
 
 
