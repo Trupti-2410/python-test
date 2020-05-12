@@ -1,3 +1,13 @@
+# The sheet provides information about data science
+## The table below shows all:
+![what is data science](https://intellipaat.com/blog/wp-content/uploads/2016/11/What-is-Data-Science.docx.jpg)
+
+
+
+
+
+
+
 | name       | syllabus        | description  |  
 | ------------- |:-------------:| -----:| 
 | Data Science specialization    | The data scientist's tools|Data Science Fundamentals|
