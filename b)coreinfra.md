@@ -1,3 +1,20 @@
+# These sheet includes coreinfrastuture program
+## Following table mention all needfull
+![cyber security](https://www.gb-advisors.com/wp-content/uploads/2018/10/DevOps-y-Ciberseguridad-400x270.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | name       | syllabus        | description  |  
 | ------------- |:-------------:| -----:| 
 | Design and Analyze Secure Networked Systems    | Cybersecurity Concepts and Security Principles | In this module, we will introduce the basic cyber security concepts, enable you to identity root causes of vulnerabilities in a network system and distinguish them from the threats from both inside and outside. We will analyze the enabling factors of recent cyber attack incidences and discuss the basic security services for their defense and triage. We will introduce the risk management framework for analyzing the risks in a network system, and apply the basic security design principles to protect the data and secure the computer systems. | 
